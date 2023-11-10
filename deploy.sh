@@ -18,7 +18,8 @@ ofxHvcP2
 ofxURG
 ofxChatGPT
 ofxWhisper
-ofxKoaWindGraphy"
+ofxKoaWindGraphy
+ofxOrbbec"
 
 for addon in $addons; do
 	#echo "$addon ${addon#*\/}"
